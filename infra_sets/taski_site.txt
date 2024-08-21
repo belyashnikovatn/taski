@@ -1,5 +1,5 @@
 IP: 51.250.21.16;
 name_taski: https://taskiforbelty.zapto.org/;
 name_kittygram: https://kittygram-python.ru/;
-login: yc-user;
-password: yc-user123456;
+login: ---;
+password: ***;
